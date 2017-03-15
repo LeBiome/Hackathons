@@ -49,4 +49,4 @@ CITIZEN LABS GO CIRCULAR  La Biome in Rennes asked How to equip a  citizen ope
 
 - - [Gestion du wordpress OSCE days Rennes](https://hackpad.com/Gestion-du-wordpress-OSCE-days-Rennes-eVrOVg1VU9N) 
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_YcmnYcsPgPe_p.266912_1465467397279_principes-de-documentation.jpeg)
+![](https://framapic.org/KNrlJ4iGKN2y/ZyUQzguX7wr5)
