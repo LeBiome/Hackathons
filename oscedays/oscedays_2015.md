@@ -1,12 +1,12 @@
 ---
-title: Carnet de Bord OSCE days 2015
+title: Carnet de Bord OSCE days 2015 - Rennes
 description: Hackaton décentralisé et co-organisé depuis Rennes avec 34 autres villes dans le monde sur l'économie circulaire  avec du biomimétisme sur notre projet
-image_url: 
+image_url: https://framapic.org/xWRi1k1IgEXY/7MKBSATaViLD
 ---
 
 # OSCE Days Rennes Carnet de bord
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_ZCSfkwwFhuQ_p.266912_1435090152300_osce rennes.jpg)
+![](https://framapic.org/xWRi1k1IgEXY/7MKBSATaViLD)
 
 Ce pad est le carnet de bord centralisant et permettant l'accès aux autres pad et documents des [Open Source Circular Economy Days ](https://oscedays.org/) de Rennes.
 <undefined><li>**Voici les liens vers les plateformes OSCEdays:**</li></undefined>
@@ -23,9 +23,9 @@ Rennes 11-15 juin 2015
 
   Les [Open Source Circular Economy Days 2015](https://oscedays.org/)  sont un évènement commun organisé de façon décentralisée et distribuée sur 34 villes dans 25 pays à travers le monde. L'objectif commun fixé est de proposer un challenge par ville provenant de la communauté locale puis de résoudre ce challenge avec l'économie circulaire et proposer un prototype en 5 jours tout en collaborant entre les différentes villes et en permettant l'accès libre aux méthodes, outils, codes, pratiques qui ont donné vie à ces solutions.
 
-  ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_ZCSfkwwFhuQ_p.266912_1439472708539_oscities.PNG)
 
-**  **
+![](https://framapic.org/sd8Ld76d5FgC/4uYKb74srdT9)
+
 
 ##  Préparation des OSCE Days Rennes
 
@@ -46,9 +46,9 @@ Rennes 11-15 juin 2015
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZPFdSVOkwiY" frameborder="0" allowfullscreen></iframe>
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_ZCSfkwwFhuQ_p.266912_1439472768232_local orga osce days 2.PNG)
+![](https://framapic.org/CCvVGkR4noGO/cA6Sd1lTSGhA)
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_ZCSfkwwFhuQ_p.266912_1439472802429_osce days.PNG)
+![](https://framapic.org/tyQBHvbkG0t5/Vwl0mbOw2vKT)
 
 ## Licence des travaux et documents
 
