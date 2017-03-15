@@ -1,8 +1,14 @@
+---
+title: Open Source Circular Economy Days 2016 - Rennes
+description: Il s'agit d'un hackathon mondial libre et distribué, regroupant plus de 70 villes pour l'édition 2016.
+image_url: https://framapic.org/KdPD4yU6d9Dh/RMVzid9D8NTp
+---
+
 # OSCE days Rennes 2016
 
 Masterpad des Open source circular economy days à Rennes édition 2016. Il sert à donner accès aux différents espaces de travail du hackathon organisé à Rennes.
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_YcmnYcsPgPe_p.266912_1465461233385_banner-osce.jpeg)
+![](https://framapic.org/KdPD4yU6d9Dh/RMVzid9D8NTp)
 
 **<u>Impliqués:</u>**
 
