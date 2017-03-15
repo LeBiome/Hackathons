@@ -46,7 +46,6 @@ Rennes 11-15 juin 2015
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZPFdSVOkwiY" frameborder="0" allowfullscreen></iframe>
 
-
 ![](https://framapic.org/CCvVGkR4noGO/cA6Sd1lTSGhA)
 
 ![](https://framapic.org/tyQBHvbkG0t5/Vwl0mbOw2vKT)
