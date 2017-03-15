@@ -1,6 +1,6 @@
 ---
 title: Nuit du Code Citoyen Rennes 2017
-description: Co-organisation de 3 jours de hackathon à Rennes reliés à plusierus francophone à travers le monde
+description: Co-organisation de 3 jours de hackathon à Rennes reliés à plusieurs villes francophones à travers le monde
 image_url: https://framapic.org/yY8wzHG6gton/xtWY7zvXqtC9
 ---
 
