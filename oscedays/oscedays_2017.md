@@ -1,14 +1,14 @@
 ---
 title: Open Source Circular Economy Days 2017 - Rennes
 description: Hackathon mondial sur l'open source et l'économie circulaire
-image_url: https://framapic.org/GjViLgMeECqQ/ldX2TsRITTKB.png
+image_url: https://framapic.org/f3qsg8WMXwpJ/F7rHdYU2veCP.png
 ---
 
 # OSCE days Rennes 2017
 
 Documentation des Open Source Circular Economy days 2017 de Rennes.
 
-![Bannière OSCE days Rennes 2017](https://framapic.org/GjViLgMeECqQ/ldX2TsRITTKB.png)
+![Bannière OSCE days Rennes 2017](https://framapic.org/f3qsg8WMXwpJ/F7rHdYU2veCP.png)
 
 ## Impliqués
 
@@ -48,9 +48,9 @@ Bref, Build Your Own Device for Infra Terrestrial https://frama.link/byodit
 
 ### Liens utiles 
 Pad ---A VENIR---
-![Event Facebook](https://www.facebook.com/events/1866037296996422/)
-![Topic Rennes 2017 sur oscedays.org](http://community.oscedays.org/t/rennes-osce-days-june-2017/5861)
-![Event sur Open Agenda](https://openagenda.com/biomehacklab/events/osce-days-rennes-viens-pratiquer-apprendre-et-echanger)
-![Carte Trello pour l'organisation](https://trello.com/c/EpQRKfSF)
+[Event Facebook](https://www.facebook.com/events/1866037296996422/)
+[Topic Rennes 2017 sur oscedays.org](http://community.oscedays.org/t/rennes-osce-days-june-2017/5861)
+[Event sur Open Agenda](https://openagenda.com/biomehacklab/events/osce-days-rennes-viens-pratiquer-apprendre-et-echanger)
+[Carte Trello pour l'organisation](https://trello.com/c/EpQRKfSF)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/fr/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/fr/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/fr/">Licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 2.0 France</a>.
