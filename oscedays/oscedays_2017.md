@@ -47,11 +47,16 @@ Bref, Build Your Own Device for Infra Terrestrial https://frama.link/byodit
 * 18h Lundi 12 Juin - Restitution agitée des 5 jours de PROJEEETS !
 
 ### Liens utiles 
-Pad ---A VENIR---
+
 * [Event Facebook](https://www.facebook.com/events/1866037296996422/)
 * [Topic Rennes 2017 sur oscedays.org](http://community.oscedays.org/t/rennes-osce-days-june-2017/5861)
 * [Event sur Open Agenda](https://openagenda.com/biomehacklab/events/osce-days-rennes-viens-pratiquer-apprendre-et-echanger)
 * [Carte Trello pour l'organisation](https://trello.com/c/EpQRKfSF)
+
+## Documentation des équipes porjets
+
++ [Pad générale](https://annuel2.framapad.org/p/OSCE-days-Rennes-2017)
++ [Equipe ByodIT](https://hackmd.io/EYRgnADGICwOwFoCsMDMiYGMAmBTBwAbGEgpmIXAGYgjbAxgCGQA?edit)
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/fr/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/fr/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/fr/">Licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 2.0 France</a>.
